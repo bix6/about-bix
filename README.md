@@ -22,16 +22,17 @@ I started this repo to keep better track of my coding projects.
     - [Express Boilerplate](https://github.com/bix6/express-boilerplate)
 
 #### Python
+- [Smart Truck](https://github.com/bix6/smart-truck-public)
+    - Embedded device to make fuel delivery trucks smarter. Fuel Meter via RS232 to Python/RasPi to Cloud.
+- [Dispatch Report]()https://github.com/bix6/dispatch-report-public
+    - Pull in information from various APIs to auto-generate daily dispatch reports.
+- [Clipy](https://github.com/bix6/clipy-public)
+    - Auto-generate unique snippets for dispatch team to use with Clipy (clipboard manager).
 - [Streaks](https://github.com/bix6/streaks)
     - Simple Python program to track daily activities/streaks
-- Smart Truck
-    - Embedded device to make fuel delivery trucks smarter. RS232 to Python/RasPi to Cloud. Created under contract; code not publicly available. 
-- Clipy
-    - Auto-generate unique snippets for customer service agents to use with Clipy (clipboard manager). Created under contract; code not publicly available.
-- Dispatch Report
-    - Pull in information from various APIs to auto-generate daily dispatch reports. Created under contract; code not publicly available.
 - PDF Merge
     - Create custom PDF packets for users based on an Excel Sheet. Not sure where I saved this code :/
+- [Python Notes](https://github.com/bix6/python-notes)
 
 #### Bash Scripting / RasPi
 - [Raspistill](https://github.com/bix6/raspistill)
