@@ -24,7 +24,7 @@ I started this repo to keep better track of my coding projects.
 #### Python
 - [Smart Truck](https://github.com/bix6/smart-truck-public)
     - Embedded device to make fuel delivery trucks smarter. Fuel Meter via RS232 to Python/RasPi to Cloud.
-- [Dispatch Report]()https://github.com/bix6/dispatch-report-public
+- [Dispatch Report](https://github.com/bix6/dispatch-report-public)
     - Pull in information from various APIs to auto-generate daily dispatch reports.
 - [Clipy](https://github.com/bix6/clipy-public)
     - Auto-generate unique snippets for dispatch team to use with Clipy (clipboard manager).
