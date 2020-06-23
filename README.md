@@ -31,7 +31,7 @@ I started this repo to keep better track of my coding projects.
 - [Streaks](https://github.com/bix6/streaks)
     - Simple Python program to track daily activities/streaks
 - PDF Merge
-    - Create custom PDF packets for users based on an Excel Sheet. Not sure where I saved this code :/
+    - Create custom PDF packets for users based on an Excel Sheet. 
 - [Python Notes](https://github.com/bix6/python-notes)
 
 #### Bash Scripting / RasPi
@@ -44,8 +44,8 @@ I started this repo to keep better track of my coding projects.
 
 #### Old Projects
 - Interstellar Invasion
-    - Side Scroller Flash game on Kongregate. Unfortunately no longer live. Not sure why I deleted it :/
+    - Side Scroller Flash game on Kongregate. 
 - Snake Snake
-    - Snake clone for iPhone. I created this in my Advanced Topics class in highschool. It was legendary but is no longer playable. This class was essentially the pilot for [Make School](https://www.makeschool.com/).
+    - Snake clone for iPhone. I created this in my Advanced Topics class in highschool. This class was essentially the pilot for [Make School](https://www.makeschool.com/).
 - Bazooka Man
-    - I created an animated bazooka man that walked and fired rockets in Java. All the movement was hardcoded. It was an epic, messy tangle that brought such a smile to my face. Unfortunately this code (and all my beautiful Java code from highschool) has been lost to time. 
+    - I created an animated bazooka man that walked and fired rockets in Java. It was legendary. 
